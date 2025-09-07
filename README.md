@@ -1,11 +1,10 @@
 <div align="center">
 
-# **Hii 👋**
+# **Hii 👋 I am Sajid Ali, a Btech Final year student**
 
 </div>
 
 # 💫 About Me:
-I am **Sajid Ali**  
 🔭 I’m currently working on **Full Stack Projects**  
 🌱 I’m currently learning **Machine Learning**  
 👯 I’m looking to collaborate on **Full Stack Projects**  
