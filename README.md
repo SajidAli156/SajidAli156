@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Hii 👋 I am Sajid Ali, a Btech Final year student**
+# **Hii 👋 I am Sajid Ali**
 
 </div>
 
